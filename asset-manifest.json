@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.00241be8.js",
-    "static/js/453.32f1c897.chunk.js": "/static/js/453.32f1c897.chunk.js",
-    "index.html": "/index.html",
-    "main.00241be8.js.map": "/static/js/main.00241be8.js.map",
-    "453.32f1c897.chunk.js.map": "/static/js/453.32f1c897.chunk.js.map"
+    "main.js": "/korkutenterprises/static/js/main.27e3150b.js",
+    "static/js/453.32f1c897.chunk.js": "/korkutenterprises/static/js/453.32f1c897.chunk.js",
+    "index.html": "/korkutenterprises/index.html",
+    "main.27e3150b.js.map": "/korkutenterprises/static/js/main.27e3150b.js.map",
+    "453.32f1c897.chunk.js.map": "/korkutenterprises/static/js/453.32f1c897.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.00241be8.js"
+    "static/js/main.27e3150b.js"
   ]
 }
